@@ -1,1 +1,37 @@
+name: Update README Quote
 
+on:
+  schedule:
+    - cron: '0 8 * * *'   # every day at 08:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Run update script
+        run: |
+          node ./scripts/update-quote.js
+
+      - name: Commit & Push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "chore: update quote (auto)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
