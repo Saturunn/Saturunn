@@ -1,14 +1,71 @@
-<!-- 💀 0xUbaid | Cyberpunk Hacker Edition (with animated ASCII banner + dynamic quote) -->
-<p align="center">
-  <!-- Upload your GIF to ./assets/banner.gif in the repo, or replace the path with an external GIF URL -->
-  <img src="./banner_0xUbaid.gif" alt="0xUbaid banner" width="100%" />
-</p>
+<!-- 💀 0xUbaid | CYBERPUNK CRT TERMINAL HEADER -->
+<div align="center" style="margin: 8px 0 20px 0;">
+
+  <!-- CRT FRAME -->
+  <div style="
+    display:inline-block;
+    padding:16px 20px;
+    background:#050608;
+    border:1px solid #101820;
+    border-radius:12px;
+    box-shadow:
+      inset 0 0 60px #00ffff22,
+      0 0 25px #00ffff22,
+      inset 0 0 100px #d400ff11;
+    position:relative;
+    overflow:hidden;
+  ">
+
+    <!-- Banner GIF -->
+    <img
+      src="./banner_0xUbaid.gif"
+      alt="0xUbaid banner"
+      style="width:100%;max-width:980px;border-radius:8px;
+             filter: contrast(115%) saturate(120%) brightness(95%)
+                     drop-shadow(0 0 14px #00ffff55) drop-shadow(0 0 24px #d400ff44);" />
+
+    <!-- Scanlines overlay -->
+    <div aria-hidden="true" style="
+      position:absolute;
+      inset:0;
+      pointer-events:none;
+      background-image: repeating-linear-gradient(
+        to bottom,
+        rgba(0,255,255,.08) 0px,
+        rgba(0,255,255,.08) 1px,
+        rgba(0,0,0,0) 2px,
+        rgba(0,0,0,0) 4px
+      );
+      opacity:.25;
+      mix-blend-mode:screen;
+    "></div>
+
+    <!-- Subtle vignette (gelap di pinggir) -->
+    <div aria-hidden="true" style="
+      position:absolute;
+      inset:0;
+      pointer-events:none;
+      box-shadow: inset 0 0 100px #000000cc;
+      border-radius:12px;
+    "></div>
+
+    <!-- Glow reflection -->
+    <div aria-hidden="true" style="
+      position:absolute;
+      top:0;left:0;right:0;height:8%;
+      background:linear-gradient(to bottom,rgba(255,255,255,0.08),transparent);
+      border-radius:12px 12px 0 0;
+      opacity:.3;
+      pointer-events:none;
+    "></div>
+  </div>
+</div>
+
 
 <!-- HACKER MODE: Minimalist Dark Terminal README -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=3800&pause=900&color=00FFFF&center=true&vCenter=true&width=900&lines=Access+Granted...;Welcome+to+0xUbaid's+Terminal;Executing+main.sh...;System+Status:+Online+%E2%9C%94" alt="terminal typing (VT323)" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=4000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Access+Granted...;Welcome+to+0xUbaid's+Terminal;Executing+main.sh...;System+Status:+Online+✔;Neon+Pulse+Stable+⚡" alt="terminal typing (VT323)" />
 </p>
-
 ---
 
 <h3 align="center">
