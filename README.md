@@ -83,6 +83,7 @@
 
 ### 🧠 System Activity
 <p align="center"> <img src="https://readme-activity-graph.vercel.app/graph?username=Saturunn&bg_color=0d1117&color=00FFFF&line=D400FF&point=00B4FF&area=true&hide_border=true" alt="activity graph" /> </p>
+
 ---
 
 ### 🧩 Fun Section
