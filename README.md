@@ -66,6 +66,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=4000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Access+Granted...;Welcome+to+0xUbaid's+Terminal;Executing+main.sh...;System+Status:+Online+✔;Neon+Pulse+Stable+⚡" alt="terminal typing (VT323)" />
 </p>
+
 ---
 
 <h3 align="center">
