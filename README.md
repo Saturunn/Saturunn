@@ -71,14 +71,20 @@ _Last updated: 2026-02-13T18:18:52.387Z_
 ---
 
 ### ⚙️ System Info
-<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Saturnunn.Saturnunn&right_color=1A1A2E&left_color=00FFFF" alt="visitors"/> <img src="https://img.shields.io/badge/Status-Online-00FFFF?style=flat-square" /> <img src="https://img.shields.io/badge/Mode-Cyberpunk_Terminal-D400FF?style=flat-square" /> <img src="https://img.shields.io/badge/Coffee_Loaded-true-00FFFF?style=flat-square" /> <img src="https://img.shields.io/badge/AI_Companion-Active-D400FF?style=flat-square" /> </p>
+<p align="center"> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Saturunn.Saturunn&right_color=1A1A2E&left_color=00FFFF" alt="visitors"/> 
+  <img src="https://img.shields.io/badge/Status-Online-00FFFF?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Mode-Cyberpunk_Terminal-D400FF?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Coffee_Loaded-true-00FFFF?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/AI_Companion-Active-D400FF?style=flat-square" /> 
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saturunn&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=ff00ff" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saturunnn&theme=tokyonight&hide_border=true&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Saturunn&theme=tokyonight&hide_border=true&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff" height="160"/>
 </p>
 
 ---
