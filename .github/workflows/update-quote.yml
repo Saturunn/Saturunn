@@ -2,8 +2,8 @@ name: Update Quote
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # daily at 00:00 UTC (ubah sesuai keinginan)
-  workflow_dispatch: {}
+    - cron: '0 0 * * *'   # Berjalan setiap hari pada jam 00:00 UTC
+  workflow_dispatch: {}    # Memungkinkan kamu menjalankan script secara manual
 
 permissions:
   contents: write
@@ -22,11 +22,11 @@ jobs:
         with:
           node-version: '18'
 
-      - - name: Run update quote script
-         run: node scripts/update-quote.js
-         env:
-           NODE_TLS_REJECT_UNAUTHORIZED: '0' # Ini akan memaksa Node mengabaikan SSL yang expired
-           
+      - name: Run update quote script
+        run: node scripts/update-quote.js
+        env:
+          # Ini memaksa NodeJS mengabaikan SSL quotable.io yang sudah expired
+          NODE_TLS_REJECT_UNAUTHORIZED: '0' 
 
       - name: Commit & push changes
         env:
