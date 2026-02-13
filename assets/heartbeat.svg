@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- assets/heartbeat.svg
-     Neon-cyan heartbeat / system-activity animation (GitHub-safe)
--->
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      viewBox="0 0 800 140"
      preserveAspectRatio="xMidYMid meet">
 
   <defs>
-    <!-- Glow filter -->
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="6" result="b"/>
       <feMerge>
@@ -17,20 +13,17 @@
       </feMerge>
     </filter>
 
-    <!-- gradient for line -->
     <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="0%">
       <stop offset="0%" stop-color="#00fff0"/>
       <stop offset="50%" stop-color="#00b4ff"/>
       <stop offset="100%" stop-color="#d400ff"/>
     </linearGradient>
 
-    <!-- path to follow (baseline) -->
     <path id="base" d="M0 70 L90 70 L110 30 L130 110 L160 70 L260 70 L280 50 L300 90 L320 70 L420 70 L440 30 L460 110 L490 70 L600 70 L800 70" fill="none" stroke="none"/>
   </defs>
 
   <rect width="100%" height="100%" fill="#0d1117" />
 
-  <!-- grid faint -->
   <g opacity="0.12">
     <defs>
       <pattern id="p" width="40" height="20" patternUnits="userSpaceOnUse">
@@ -40,11 +33,9 @@
     <rect x="0" y="0" width="100%" height="100%" fill="url(#p)"/>
   </g>
 
-  <!-- heartbeat line -->
   <g filter="url(#glow)">
     <use xlink:href="#base" stroke="url(#g)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
 
-    <!-- moving pulse dot -->
     <circle r="6" fill="#00fff0" opacity="0.95">
       <animateMotion dur="3.5s" repeatCount="indefinite" rotate="auto">
         <mpath xlink:href="#base" />
@@ -54,7 +45,6 @@
     </circle>
   </g>
 
-  <!-- glow pulse -->
   <g transform="translate(140,70)">
     <circle r="6" fill="#00fff0" opacity="0.0">
       <animate attributeName="r" values="6;36;6" dur="3.5s" repeatCount="indefinite" keyTimes="0;0.05;1" begin="0.5s"/>
@@ -62,6 +52,5 @@
     </circle>
   </g>
 
-  <!-- label -->
   <text x="18" y="22" fill="#00fff0" font-family="VT323, monospace" font-size="14" opacity="0.95">System Activity</text>
 </svg>
