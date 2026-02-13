@@ -22,8 +22,11 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Run update script
-        run: node scripts/update-quote.js
+      - - name: Run update quote script
+         run: node scripts/update-quote.js
+         env:
+           NODE_TLS_REJECT_UNAUTHORIZED: '0' # Ini akan memaksa Node mengabaikan SSL yang expired
+           
 
       - name: Commit & push changes
         env:
