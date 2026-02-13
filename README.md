@@ -60,8 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “My emotions are uninitialized variables — unpredictable, unstable, and slightly dangerous.”  
-> — `0xUbaid`
+> “A goal is a dream with a deadline.”
+> — `Napoleon Hill`
+
+_Last updated: 2026-02-13T18:18:52.387Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
