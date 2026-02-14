@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “A goal is a dream with a deadline.”
-> — `Napoleon Hill`
+> “Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.”
+> — `Marilyn Monroe`
 
-_Last updated: 2026-02-13T18:18:52.387Z_
+_Last updated: 2026-02-14T02:41:49.195Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
