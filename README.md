@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.”
-> — `Muhammad Ali`
+> “Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity.”
+> — `Calvin Coolidge`
 
-_Last updated: 2026-02-15T02:55:14.208Z_
+_Last updated: 2026-02-16T02:50:38.004Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
