@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Friendship is always a sweet responsibility, never an opportunity.”
-> — `Kahlil Gibran`
+> “He who knows others is wise. He who knows himself is enlightened.”
+> — `Laozi`
 
-_Last updated: 2026-02-17T02:47:06.040Z_
+_Last updated: 2026-02-18T02:50:04.575Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
