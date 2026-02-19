@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “He who knows others is wise. He who knows himself is enlightened.”
-> — `Laozi`
+> “There are no failures. Just experiences and your reactions to them.”
+> — `Tom Krause`
 
-_Last updated: 2026-02-18T02:50:04.575Z_
+_Last updated: 2026-02-19T02:49:23.065Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
