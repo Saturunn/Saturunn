@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “There are no failures. Just experiences and your reactions to them.”
-> — `Tom Krause`
+> “Whether you think you can or you think you can't, you are right.”
+> — `Henry Ford`
 
-_Last updated: 2026-02-19T02:49:23.065Z_
+_Last updated: 2026-02-20T02:43:46.489Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
