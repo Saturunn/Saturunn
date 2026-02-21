@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Whether you think you can or you think you can't, you are right.”
-> — `Henry Ford`
+> “There is no great genius without some touch of madness.”
+> — `Seneca the Younger`
 
-_Last updated: 2026-02-20T02:43:46.489Z_
+_Last updated: 2026-02-21T02:37:46.451Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
