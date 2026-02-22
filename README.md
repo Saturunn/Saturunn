@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “There is no great genius without some touch of madness.”
-> — `Seneca the Younger`
+> “Genuine sincerity opens people's hearts, while manipulation causes them to close.”
+> — `Daisaku Ikeda`
 
-_Last updated: 2026-02-21T02:37:46.451Z_
+_Last updated: 2026-02-22T02:50:33.547Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
