@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Genuine sincerity opens people's hearts, while manipulation causes them to close.”
-> — `Daisaku Ikeda`
+> “If it is not right do not do it; if it is not true do not say it.”
+> — `Marcus Aurelius`
 
-_Last updated: 2026-02-22T02:50:33.547Z_
+_Last updated: 2026-02-23T02:50:34.363Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
