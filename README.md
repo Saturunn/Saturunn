@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “If it is not right do not do it; if it is not true do not say it.”
-> — `Marcus Aurelius`
+> “Well begun is half done.”
+> — `Aristotle`
 
-_Last updated: 2026-02-23T02:50:34.363Z_
+_Last updated: 2026-02-24T02:47:56.209Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
