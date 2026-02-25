@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Well begun is half done.”
-> — `Aristotle`
+> “You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.”
+> — `Woodrow Wilson`
 
-_Last updated: 2026-02-24T02:47:56.209Z_
+_Last updated: 2026-02-25T02:48:45.537Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
