@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Leave no stone unturned.”
-> — `Euripides`
+> “It is the neglect of timely repair that makes rebuilding necessary.”
+> — `Richard Whately`
 
-_Last updated: 2026-02-26T02:44:01.372Z_
+_Last updated: 2026-02-27T02:42:08.341Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
