@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Friendship at first sight, like love at first sight, is said to be the only truth.”
-> — `Herman Melville`
+> “The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.”
+> — `Laozi`
 
-_Last updated: 2026-02-28T02:31:11.266Z_
+_Last updated: 2026-03-01T03:14:15.292Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
