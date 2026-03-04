@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “If one way be better than another, that you may be sure is nature's way.”
-> — `Aristotle`
+> “Beware of false knowledge; it is more dangerous than ignorance.”
+> — `Bernard Shaw`
 
-_Last updated: 2026-03-03T02:47:58.746Z_
+_Last updated: 2026-03-04T02:40:58.108Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
