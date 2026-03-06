@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “You can observe a lot just by watching.”
-> — `Yogi Berra`
+> “In the business world, the rearview mirror is always clearer than the windshield.”
+> — `Warren Buffett`
 
-_Last updated: 2026-03-05T02:43:28.022Z_
+_Last updated: 2026-03-06T02:41:16.286Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
