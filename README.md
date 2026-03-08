@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Life has no blessing like a prudent friend.”
-> — `Euripides`
+> “One of the most beautiful qualities of true friendship is to understand and to be understood.”
+> — `Seneca the Younger`
 
-_Last updated: 2026-03-07T02:33:59.923Z_
+_Last updated: 2026-03-08T02:47:28.981Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
