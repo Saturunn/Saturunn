@@ -105,6 +105,6 @@ while(alive):
 <p align="center">
   🧠 “No syntax sugar. Just raw neon logic.” 💾  
   <br><br>
-  <a href="https://github.com/0xUbaid"><img src="https://img.shields.io/badge/Follow_me_on-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffff"></a>
+  <a href="https://github.com/Saturunn"><img src="https://img.shields.io/badge/Follow_me_on-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffff"></a>
   <a href="#"><img src="https://img.shields.io/badge/Stay_Caffeinated☕-ff00ff?style=for-the-badge"></a>
 </p>
