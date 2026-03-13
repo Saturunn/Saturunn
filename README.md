@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Life is a learning experience, only if you learn.”
+> “You got to be careful if you don't know where you're going, because you might not get there.”
 > — `Yogi Berra`
 
-_Last updated: 2026-03-12T02:45:00.842Z_
+_Last updated: 2026-03-13T02:42:54.837Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
