@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “You got to be careful if you don't know where you're going, because you might not get there.”
-> — `Yogi Berra`
+> “Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.”
+> — `Cicero`
 
-_Last updated: 2026-03-13T02:42:54.837Z_
+_Last updated: 2026-03-14T02:41:30.501Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
