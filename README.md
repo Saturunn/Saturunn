@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “No party has a monopoly on wisdom. No democracy works without compromise.”
-> — `Barack Obama`
+> “The way you see people is the way you treat them, and the way you treat them is what they become.”
+> — `Johann Wolfgang von Goethe`
 
-_Last updated: 2026-03-17T02:45:23.846Z_
+_Last updated: 2026-03-18T02:51:41.398Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
