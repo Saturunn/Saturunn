@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.”
-> — `Denis Waitley`
+> “They can conquer who believe they can.”
+> — `Virgil`
 
-_Last updated: 2026-03-19T02:53:06.933Z_
+_Last updated: 2026-03-20T02:44:01.446Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
