@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “They can conquer who believe they can.”
-> — `Virgil`
+> “Wisdom is oftentimes nearer when we stoop than when we soar.”
+> — `William Wordsworth`
 
-_Last updated: 2026-03-20T02:44:01.446Z_
+_Last updated: 2026-03-21T02:37:45.547Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
