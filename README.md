@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Wisdom is oftentimes nearer when we stoop than when we soar.”
-> — `William Wordsworth`
+> “Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.”
+> — `Harriet Lerner`
 
-_Last updated: 2026-03-21T02:37:45.547Z_
+_Last updated: 2026-03-22T02:53:47.154Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
