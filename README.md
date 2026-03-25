@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!”
-> — `Richard Bach`
+> “The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.”
+> — `Peter Abelard`
 
-_Last updated: 2026-03-24T02:45:43.469Z_
+_Last updated: 2026-03-25T02:50:28.065Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
