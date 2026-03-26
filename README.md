@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.”
-> — `Peter Abelard`
+> “In action a great heart is the chief qualification. In work, a great head.”
+> — `Arthur Schopenhauer`
 
-_Last updated: 2026-03-25T02:50:28.065Z_
+_Last updated: 2026-03-26T02:57:13.085Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
