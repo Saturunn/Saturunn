@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Don't be afraid to go out on a limb. That's where the fruit is.”
-> — `H. Jackson Brown Jr.`
+> “Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.”
+> — `Eknath Easwaran`
 
-_Last updated: 2026-03-31T03:17:38.205Z_
+_Last updated: 2026-04-01T03:30:31.005Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
