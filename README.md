@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.”
-> — `Eknath Easwaran`
+> “I cannot always control what goes on outside. But I can always control what goes on inside.”
+> — `Wayne Dyer`
 
-_Last updated: 2026-04-01T03:30:31.005Z_
+_Last updated: 2026-04-02T02:55:27.053Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
