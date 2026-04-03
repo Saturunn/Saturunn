@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “I cannot always control what goes on outside. But I can always control what goes on inside.”
-> — `Wayne Dyer`
+> “Sooner or later, those who win are those who think they can.”
+> — `Richard Bach`
 
-_Last updated: 2026-04-02T02:55:27.053Z_
+_Last updated: 2026-04-03T03:15:46.851Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
