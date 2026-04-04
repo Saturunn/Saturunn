@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “Sooner or later, those who win are those who think they can.”
-> — `Richard Bach`
+> “To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.”
+> — `Thích Nhất Hạnh`
 
-_Last updated: 2026-04-03T03:15:46.851Z_
+_Last updated: 2026-04-04T02:48:12.691Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
