@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.”
-> — `Thích Nhất Hạnh`
+> “I cannot make my days longer, so I strive to make them better.”
+> — `Henry David Thoreau`
 
-_Last updated: 2026-04-04T02:48:12.691Z_
+_Last updated: 2026-04-05T03:25:18.058Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
