@@ -60,10 +60,10 @@
 
 ### 💬 Quote of the Moment
 <!-- QUOTE_START -->
-> “I cannot make my days longer, so I strive to make them better.”
-> — `Henry David Thoreau`
+> “Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.”
+> — `The Buddha`
 
-_Last updated: 2026-04-05T03:25:18.058Z_
+_Last updated: 2026-04-06T03:28:25.062Z_
 <!-- QUOTE_END -->
 
 *(This quote is updated automatically by GitHub Actions — it fetches a fresh random quote from the Quotable API on schedule.)*
